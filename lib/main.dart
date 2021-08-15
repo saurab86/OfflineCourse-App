@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Material(
       child: MaterialApp(
-        title: 'Worker ui',
+        title: 'offlinecourse',
         home: Home(),
         theme: ThemeData(primaryColor: Colors.blueAccent),
         debugShowCheckedModeBanner: false,
